@@ -5,3 +5,6 @@
 
 ## Contact
 
+* JJGallardior@gmail.com
+* [Website](https://gallardior.github.io/Portfolio/)
+* [Twitter](https://twitter.com/Gallardior)
