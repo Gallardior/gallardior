@@ -9,4 +9,4 @@
 * JJGallardior@gmail.com
 * [Website](https://gallardior.github.io/Portfolio/)
 * [Twitter](https://twitter.com/Gallardior)
-* [Linkedin](https://www.linkedin.com/in/gallardior/))
+* [Linkedin](https://www.linkedin.com/in/gallardior/)
