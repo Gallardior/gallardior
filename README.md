@@ -8,6 +8,6 @@
 ## Contact
 
 * JJGallardior@gmail.com
-* [Website](https://portfolio-ivory-psi.vercel.app/)
+* [Website](https://gallardior.github.io/Portfolio/index.html)
 * [Twitter](https://twitter.com/Gallardior)
 * [Linkedin](https://www.linkedin.com/in/gallardior/)
