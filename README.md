@@ -7,7 +7,7 @@
 
 ## Contact
 
-* JJGallardior@gmail.com
-* [Website](https://gallardior.github.io/Portfolio/index.html)
+* jjgallardior@gmail.com
+* [Website](https://gallardoja.vercel.app)
 * [Twitter](https://twitter.com/Gallardior)
 * [Linkedin](https://www.linkedin.com/in/gallardior/)
