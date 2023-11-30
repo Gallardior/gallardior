@@ -1,4 +1,4 @@
-![Banner](./banner.jpg)
+![Banner](https://pbs.twimg.com/profile_banners/1614339602847875074/1701368487/1500x500)
 ## ¡Hola, soy Jesús Gallardo ! 👋
 
 * Soy un desarrollador que está interesado principalmente en tecnologías web, especialmente en el desarrollo de frontend.
