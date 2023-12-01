@@ -1,9 +1,9 @@
 ![Banner](https://pbs.twimg.com/profile_banners/1614339602847875074/1701368487/1500x500)
 ## ¡Hola, soy Jesús Gallardo ! 👋
 
-* Soy un desarrollador que está interesado principalmente en tecnologías web, especialmente en el desarrollo de frontend.
-* Desarrollo mis habilidades como autodidacta con libros y plataformas online. Mi curiosidad me permite aprender rápidamente nuevas herramientas y tecnologías cuando sea necesario.
-* Disfruto compartiendo mis conocimientos y ayudando a los demás cuando sea posible.
+* Soy un desarrollador Frontend apasionado por crear soluciones digitales útiles e innovadoras.
+* Me gusta desarrollar aplicaciones usando React, Vue, JavaScript, Node, Python, Firebase, Flutter.
+* Además de eso, siempre tengo un gran interés en nuevos lenguajes, marcos, tendencias de diseño, etc.
 
 ## Contact
 
